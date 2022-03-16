@@ -1,0 +1,47 @@
+h2{
+    color: deepskyblue;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.blocs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.blocs1{
+    width: 33%;
+    border-width:1px;
+    border-style:solid;
+    border-color:grey;
+    padding: 5px 5px 5px 5px;
+}
+.blocs2{
+    width: 33%;
+    border-width:1px;
+    border-style:solid;
+    border-color:grey;
+    padding: 5px 5px 5px 5px;
+}
+.blocs3{
+    width: 33%;
+    border-width:1px;
+    border-style:solid;
+    border-color:grey;
+    padding: 5px 5px 5px 5px;
+}
+.blocs4{
+    width: 33%;
+    border-width:1px;
+    border-style:solid;
+    border-color:grey;
+    padding: 5px 5px 5px 5px;
+    margin: auto;
+    margin-top: 5px;
+}
+#trait_dessus{
+    color: black;
+}
